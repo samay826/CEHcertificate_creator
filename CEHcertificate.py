@@ -4,7 +4,7 @@
 # CEH AND RED HAT , OSCP , OSEP :- samay has done CEH and venom bsdk red hat and carbon OSCP 
 '''
 bsdk vilen please yeh copy mat karna script
-NOOB HACKER LAVDE TU BHI
+venomR LAVDE TU BHI
 '''
 import os
 print(".........WELCOME........")
